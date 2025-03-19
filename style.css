@@ -1,0 +1,11 @@
+.main{
+    height: 400px;
+    width: 400px;
+    background-color:#da2b26;
+    position: relative;
+}
+img{
+    position: absolute;
+    top: 30%;
+    left: 25%;
+}
